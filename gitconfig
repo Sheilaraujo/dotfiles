@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sheilla-araujo@hotmail.com
+	name = Sheila Araujo
